@@ -1,0 +1,2 @@
+sudo hostname bastion
+exit
